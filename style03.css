@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.content{
+    height: 480px;
+    padding: 80px;
+    text-align: center;
+    background-image: url(/coolbackgrounds-fractalize-cool_backgrounds.png);
+    background-size: cover;
+    position: relative;
+}
+
+.main{
+    font-size: 20px;
+    padding: 20px 0px;
+    display: block;
+    float: right;
+    text-align: center;
+}
+.header{
+    font-size: 100px;
+    color: white;
+    text-align: center;
+}
+.slogan {
+    font-size: 30px;
+    color: white;
+    font-style: italic;
+    text-align: center;
+}
+.footer {
+    font-size: 32px;
+    padding: 40px;
+    text-align: center;
+    background-color: #FFD700
+}
